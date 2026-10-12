@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config "D:\Documents\poshcat.omp.json" | Invoke-Expression
