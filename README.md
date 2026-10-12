@@ -7,24 +7,34 @@
 <h3 align="center">My personal Windows rice & dotfiles</h3>
 
 <p align="center">
-  A customized Windows setup inspired by the <b>Catppuccin Mocha</b> palette, featuring lavender accents, a minimal interface, and a consistent aesthetic across the desktop.
+  A customized Windows setup inspired by Catppuccin Macchiato, featuring lavender accents, a minimal interface, and a cohesive desktop aesthetic.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-89b4fa?style=for-the-badge&logo=windows&logoColor=11111b">
-  <img src="https://img.shields.io/badge/Theme-Catppuccin%20Mocha-cba6f7?style=for-the-badge&logo=catppuccin&logoColor=11111b">
-  <img src="https://img.shields.io/badge/Status-Personal%20Setup-a6e3a1?style=for-the-badge">
+  <a href="https://www.reddit.com/r/desktops/s/hNWyjDnonO">
+    <img src="https://img.shields.io/badge/Reddit-r%2Fdesktops-ff6b9d?style=for-the-badge&logo=reddit&logoColor=white" alt="View on Reddit">
+  </a>
+  <img src="https://img.shields.io/badge/OS-Windows%2011-8aadf4?style=for-the-badge&logo=windows&logoColor=181926" alt="Windows 11">
+  <img src="https://img.shields.io/badge/Theme-Catppuccin%20Macchiato-c6a0f6?style=for-the-badge&logo=catppuccin&logoColor=181926" alt="Catppuccin Macchiato">
 </p>
 
 ---
 
 ## ✨ About
 
-**windots** is my personal collection of Windows rice configurations, dotfiles, and customization tweaks. The goal is to create a cohesive desktop experience inspired by the [Catppuccin](https://github.com/catppuccin/catppuccin) color palette.
+**windots** is my personal collection of Windows rice configurations, dotfiles, and customization tweaks, built around the beautiful [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin) color palette.
 
-The setup focuses on a dark **Mocha** base with **Lavender** accents, a clean desktop, customized system UI, and a consistent appearance across different Windows components.
+The setup combines a dark, muted background with lavender accents, a customized Windows interface, and a consistent visual style across the desktop.
 
-This repository serves as a backup of my configurations and a place to share my Windows customization journey.
+What started as personal desktop customization has turned into a setup I'm excited to share with others.
+
+### 🔥 Featured on Reddit
+
+Check out my desktop setup on r/desktops!
+
+**[View my Reddit post →](https://www.reddit.com/r/desktops/s/hNWyjDnonO)**
+
+The post reached the top posts of the week on r/desktops, with 400+ upvotes. Thanks to everyone who checked it out and shared their feedback!
 
 ## 🖼️ Screenshots
 
@@ -49,55 +59,53 @@ This repository serves as a backup of my configurations and a place to share my 
 
 ## 🎨 Color Palette
 
-The setup primarily uses the Catppuccin Mocha palette, with Lavender as the main accent.
+The setup uses **Catppuccin Macchiato**, with Lavender as the primary accent.
 
 | Color | Hex | Usage |
 |---|---|---|
-| Base | `#1e1e2e` | Main background |
-| Mantle | `#181825` | Dark UI elements |
-| Crust | `#11111b` | Deep backgrounds |
-| Surface 0 | `#313244` | UI surfaces |
-| Surface 1 | `#45475a` | Borders and secondary elements |
-| Text | `#cdd6f4` | Primary text |
-| Subtext 0 | `#a6adc8` | Secondary text |
-| Lavender | `#b4befe` | Primary accent |
-| Blue | `#89b4fa` | Secondary accent |
-| Mauve | `#cba6f7` | Highlight color |
+| Base | `#24273a` | Main background |
+| Mantle | `#1e2030` | Secondary backgrounds |
+| Crust | `#181926` | Deep backgrounds |
+| Surface 0 | `#363a4f` | UI surfaces |
+| Surface 1 | `#494d64` | Borders and secondary elements |
+| Surface 2 | `#5b6078` | Elevated surfaces |
+| Text | `#cad3f5` | Primary text |
+| Subtext 0 | `#a5adcb` | Secondary text |
+| Subtext 1 | `#b8c0e0` | Muted text |
+| Lavender | `#b7bdf8` | Primary accent |
+| Blue | `#8aadf4` | Secondary accent |
+| Mauve | `#c6a0f6` | Highlights |
+| Pink | `#f5bde6` | Additional accents |
+| Green | `#a6da95` | Success and status indicators |
 
 ## 🛠️ Customization
 
-The repository contains my personal Windows customization files and configurations, including the components used to build the desktop aesthetic.
+The repository contains my personal Windows customization files and configurations, including the components used to create this desktop aesthetic.
 
-Depending on the configuration, these may include:
-
-- **Windows UI** — Start menu and other interface customizations.
-- **Windhawk** — Tweaks and styling modifications for Windows components.
-- **Rainmeter** — Desktop widgets and visual elements, if included.
-- **Dock customization** — Application launcher and dock styling, if included.
+- **Windows UI** — Customized Start menu and interface styling.
+- **Windhawk** — Windows component modifications and visual tweaks.
 - **Terminal & shell** — PowerShell profile and Oh My Posh configuration.
-- **Themes & colors** — Catppuccin-inspired colors and styling.
-- **Miscellaneous tweaks** — Additional configuration files and scripts.
+- **Themes & colors** — Catppuccin Macchiato colors with Lavender accents.
+- **Additional tweaks** — Personal configuration files and scripts.
 
-Refer to the corresponding folders and configuration files in the repository for the actual setup and components.
+Explore the repository to see the individual configurations and how the setup comes together.
 
 ## 📦 Installation
 
-These are my personal configurations, so there is no universal installer.
+These are personal configurations rather than a universal installer.
 
 1. Clone the repository:
 
    ```powershell
-   git clone https://github.com/YOUR_USERNAME/windots.git
+   git clone https://github.com/rishav12s/windots.git
    ```
 
-2. Open the repository and browse the configuration files.
-
-3. Install the applications and customization tools required by the components you want to use.
-
-4. Apply each configuration according to its respective application's instructions.
+2. Browse the configuration files and identify the components you want to use.
+3. Install the corresponding applications and customization tools.
+4. Apply each configuration according to its application's instructions.
 
 > [!IMPORTANT]
-> These configurations are intended for my personal Windows setup. Back up your existing settings and create a restore point before modifying system components. Some tweaks may depend on your Windows version, installed applications, or additional tools.
+> Back up your existing configurations before applying these files. Some modifications may depend on your Windows version, installed applications, or additional customization tools.
 
 ## 📁 Repository Structure
 
@@ -115,18 +123,19 @@ windots/
 └── README.md
 ```
 
-*The structure above illustrates the screenshot directory and main README. Other entries are placeholders for the actual configuration files in the repository.*
-
 ## 💜 Credits
 
 - [Catppuccin](https://github.com/catppuccin/catppuccin) — The color palette behind this setup.
-- [Windhawk](https://windhawk.net/) — Windows customization and modification framework.
-- [Rainmeter](https://www.rainmeter.net/) — Desktop customization platform, if used by individual components.
+- [Windhawk](https://windhawk.net/) — Windows customization framework.
+- [Oh My Posh](https://ohmyposh.dev/) — Prompt customization for PowerShell.
 
-All respective tools, themes, and assets belong to their original authors.
+## 🔗 Links
+
+- **Reddit showcase:** [My Windows desktop on r/desktops](https://www.reddit.com/r/desktops/s/hNWyjDnonO)
+- **Color theme:** [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin)
 
 ---
 
 <p align="center">
-  <i>Made with 💜 and a little obsession over desktop customization.</i>
+  Made with 💜 and a little obsession over desktop customization.
 </p>
