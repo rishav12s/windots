@@ -78,18 +78,6 @@ The setup uses **Catppuccin Macchiato**, with Lavender as the primary accent.
 | Pink | `#f5bde6` | Additional accents |
 | Green | `#a6da95` | Success and status indicators |
 
-## 🛠️ Customization
-
-The repository contains my personal Windows customization files and configurations, including the components used to create this desktop aesthetic.
-
-- **Windows UI** — Customized Start menu and interface styling.
-- **Windhawk** — Windows component modifications and visual tweaks.
-- **Terminal & shell** — PowerShell profile and Oh My Posh configuration.
-- **Themes & colors** — Catppuccin Macchiato colors with Lavender accents.
-- **Additional tweaks** — Personal configuration files and scripts.
-
-Explore the repository to see the individual configurations and how the setup comes together.
-
 ## 📦 Installation
 
 These are personal configurations rather than a universal installer.
@@ -107,21 +95,18 @@ These are personal configurations rather than a universal installer.
 > [!IMPORTANT]
 > Back up your existing configurations before applying these files. Some modifications may depend on your Windows version, installed applications, or additional customization tools.
 
-## 📁 Repository Structure
+## 🛠️ Setup
 
-```text
-windots/
-├── Screenshots/
-│   ├── Screenshot-1.png
-│   ├── Screenshot-2.png
-│   ├── Screenshot-3.png
-│   ├── Screenshot-4.png
-│   ├── Screenshot-5.png
-│   ├── Screenshot-6.png
-│   └── Screenshot-7.png
-├── ... configuration files
-└── README.md
-```
+| Component | Configuration |
+|---|---|
+| **Window Effects** | [Windhawk](https://windhawk.net/) — Translucent Windows with Catppuccin bg colors |
+| **Taskbar** | [Windhawk](https://windhawk.net/) — Frosty Glass (Taskbar Styler), custom height and icon size, tray auto-hide on hover |
+| **Icons** | [Catmocha Icon Theme](https://www.deviantart.com/digifeye/art/Catmocha-Icon-Theme-1261586793) via Windhawk Resource Redirect, with manually customized shortcut icons |
+| **Taskbar Separators** | [TaskSeparator11](https://github.com/DrummerSi/TaskSeparator11) |
+| **Desktop Bar** | [YASB](https://github.com/amnweb/yasb) — [Okinami Theme](https://github.com/MrDLingters/Okinami_YASB) |
+| **Music Player** | [Sonora](https://github.com/sonorahq/sonora) |
+| **Browser** | [Helium](https://helium.computer/) with [Bonjourr](https://bonjourr.fr/) as the new-tab page |
+| **Terminal** | PowerShell + [Oh My Posh](https://ohmyposh.dev/) with Catppuccin Macchiato, and [Winfetch](https://github.com/lptstr/winfetch) |
 
 ## 💜 Credits
 
