@@ -34,7 +34,7 @@ Check out my desktop setup on r/desktops!
 
 **[View my Reddit post →](https://www.reddit.com/r/desktops/s/hNWyjDnonO)**
 
-The post reached the top posts of the month on r/desktops, with 900+ upvotes. Thanks to everyone who checked it out and shared their feedback!
+The post reached the top posts of the month on r/desktops, with 1000+ upvotes. Thanks to everyone who checked it out and shared their feedback!
 
 ## 🖼️ Screenshots
 
