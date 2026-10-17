@@ -5,7 +5,7 @@ Catppuccin minimal theme for yasb.
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="../Screenshots/bar-2.png" alt="yasb minimal theme" width="850">
+  <img src="../../Screenshots/bar-2.png" alt="yasb minimal theme" width="850">
 </p>
 
 ## 📦 Setup

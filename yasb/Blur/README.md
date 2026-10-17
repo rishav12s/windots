@@ -5,7 +5,7 @@ Catppuccin with blur theme for yasb.
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="../Screenshots/bar-1.png" alt="yasb Blur Theme" width="850">
+  <img src="../../Screenshots/bar-1.png" alt="yasb Blur Theme" width="850">
 </p>
 
 ## 📦 Setup
