@@ -39,7 +39,7 @@ The post reached the top posts of the month on r/desktops, with 1000+ upvotes. T
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot-1.png" alt="Desktop overview" width="49%">
+  <img src="Screenshots/Screenshot-7.png" alt="Desktop overview" width="49%">
   <img src="Screenshots/Screenshot-2.png" alt="Desktop customization" width="49%">
 </p>
 
@@ -54,7 +54,7 @@ The post reached the top posts of the month on r/desktops, with 1000+ upvotes. T
 </p>
 
 <p align="center">
-  <img src="Screenshots/Screenshot-7.png" alt="Additional desktop preview" width="75%">
+  <img src="Screenshots/Screenshot-8.png" alt="Additional desktop preview" width="75%">
 </p>
 
 ## 🎨 Color Palette
