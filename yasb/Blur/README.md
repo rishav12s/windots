@@ -11,6 +11,6 @@ Catppuccin with blur theme for yasb.
 ## 📦 Setup
 
 1. Install yasb.
-2. Paste the config.yaml and style.css to C:\Users\Your-Username\.config\yasb\
+2. Paste the config.yaml and style.css to `C:\Users\Your-Username\.config\yasb\`
 
 ---
